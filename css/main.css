@@ -11,6 +11,7 @@ header nav{
 .btn{
 	padding: 5px 7px;
 	border-radius: 5%;
+	background-color: gray;
 }
 
 .banner .container{
@@ -28,3 +29,52 @@ header nav{
 	color: gray;
 }
 
+.twitter i{
+	font-size:100px;
+	display: block;
+}
+
+.twitter a{
+	color: red;
+}
+
+.follow{
+	padding: 1px 4px;
+	background-color: #888;
+	color: white;
+}
+
+.twitter h2{
+	padding-top: 30px;
+}
+
+.redes{
+	border: dashed 1px white;
+	height: 40px;
+	width: 40px;
+	border-radius: 100%;
+	text-align: center;
+	display: inline-block;
+}
+
+footer i{
+	font-size: 30px;
+}
+
+.footer1 .col-md-7 p{
+	color: #9a9ac1;
+	line-height: 21px;
+	margin-top: 20px;
+}
+
+.footer1 .col-md-2 p:first-child{
+	color: red;
+}
+
+.footer2 p{
+	font-size: 11px;
+}
+
+.footer2 i{
+	font-size: 13px;
+}

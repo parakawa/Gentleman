@@ -10,6 +10,9 @@ strong {
 	font-weight: 600; 
 }
 
+.pd-2px{
+	padding: 2px;
+}
 .pd-5px{
 	padding: 5px;
 }
@@ -32,6 +35,11 @@ strong {
 .pb-5{
 	padding-bottom: 5%;
 }
+
+.pb-3{
+	padding-bottom: 3%;
+}
+
 .pl-5{
 	padding-left: 5%;
 }
@@ -40,6 +48,9 @@ strong {
 }
 .mg-0{
 	margin: 0;
+}
+.mg-auto{
+	margin: auto;
 }
 .w-100{
 	width: 100%;
@@ -99,3 +110,16 @@ strong {
 .pull-right {
 	float: right;
 }
+
+.bor-top{
+	border-top: 1px solid #cec4c4;
+}
+
+.bor-bot{
+	border-bottom: 1px solid #cec4c4;
+}
+
+.size-21{
+	font-size: 21px;
+}
+
