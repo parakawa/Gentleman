@@ -1,4 +1,30 @@
 header nav a{
 	font-size: 18px;
 	color: white;
+	margin: 4px 7px;
 }
+
+header nav{
+	margin-top: 18px;
+}
+
+.btn{
+	padding: 5px 7px;
+	border-radius: 5%;
+}
+
+.banner .container{
+	border-bottom: 1px solid #cec4c4;
+}
+
+.projects h3{
+	font-size: 18px;
+	display: inline-block;
+	padding-right: 60px;
+}
+
+.projects i{
+	margin-right: 4px;
+	color: gray;
+}
+

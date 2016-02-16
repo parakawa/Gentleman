@@ -10,8 +10,15 @@ strong {
 	font-weight: 600; 
 }
 
+.pd-5px{
+	padding: 5px;
+}
 .pd-0{
 	padding: 0;
+}
+
+.pd-3 {
+	padding: 3%;
 }
 .pd-5 {
 	padding: 5%;
@@ -69,8 +76,13 @@ strong {
 	text-decoration: none;
 }
 .bg-gray{
-	background-color: rgb(244, 244, 244);
+	background-color: #f2f2f2;
 }
+
+.bg-white{
+	background-color: white;
+}
+
 .bg-black{
 	background-color: black;
 }
